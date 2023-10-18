@@ -1,1 +1,3 @@
-# SOEN6841-Topical-Analysis-And-Synthesis
+# SOEN 6841: Software Project Management
+
+### TOPIC ANALYSIS AND SYNTHESIS
